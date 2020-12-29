@@ -1,6 +1,5 @@
 # facebook_ui
 - [Youtube](https://www.youtube.com/watch?v=QQ_aJU1067A)
-A new Flutter project.
 
 ## Getting Started
 
